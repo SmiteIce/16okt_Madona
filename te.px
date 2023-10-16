@@ -1,0 +1,15 @@
+vecums=input("Ievadi savu gadu skaitli: ")
+if cemus>=18:
+    print("Tu esi pilngadīgs")
+else:
+    print("Tu vēl neesi pilngadīgs!")
+
+"""
+Python atbalsta parastos loģiskos nosacījumus no matemātikas:
+== b
+Vienāds: a =
+Nevienāds: a != b
+Mazāks par: a < b
+Mazāks vai vienāds ar: a <= b
+Lielāks par: a > b
+Lielāks par vai vienāds ar: a >= b
